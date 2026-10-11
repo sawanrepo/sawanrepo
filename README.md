@@ -43,7 +43,7 @@ I'm a passionate Computer Science Engineering student at IIIT Kottayam, currentl
 ---
 
 ### ⚡ Fun Facts
-- SUbLead Betalab - AI & DS subclub  
+- Mentor Betalabs - Tech Club of IIIT Kottayam 
 - Beginner Kaggle competitor, always learning and improving  
 - Enjoy exploring deep learning architectures and building personal projects.
 
